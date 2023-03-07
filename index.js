@@ -9,4 +9,4 @@ const products = [
   { name: 'akhi', price: 5000 },
   { name: 'siyam', price: 15000 },
 ];
-console.log(products[0]);
+console.log(products[0].price);
