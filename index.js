@@ -13,12 +13,16 @@ console.log(products[0].price);
 
 // second work
 
-const friends = ['opu', 'siyam', 'tuhin', 'kelababa'];
+const friends = ['opu', 'siyam', 'tuhin', 'kelababa', 'mdsgfhnbjksdgfnbkjdfbg'];
 
 const bigFriends = (friends) => {
   let big = '';
   for (let i = 0; i < friends.length; i++) {
-
-    
+    let name = friends[i];
+   big?.length < name.length = big=name
   }
+  console.log(big);
+  return big;
 };
+
+bigFriends(friends);
