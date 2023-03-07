@@ -10,3 +10,15 @@ const products = [
   { name: 'siyam', price: 15000 },
 ];
 console.log(products[0].price);
+
+// second work
+
+const friends = ['opu', 'siyam', 'tuhin', 'kelababa'];
+
+const bigFriends = (friends) => {
+  let big = '';
+  for (let i = 0; i < friends.length; i++) {
+
+    
+  }
+};
