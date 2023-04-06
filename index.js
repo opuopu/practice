@@ -6,3 +6,6 @@ const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Startersssss</h1>`;
 
 console.log('hello world');
+console.log('hello world');
+console.log('hello world');
+console.log('hello world');
